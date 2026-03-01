@@ -1,0 +1,10 @@
+{
+  "builder.serverUrl": "",
+  "builder.command": "",
+  "builder.runDevServer": true,
+  "builder.autoDetectDevServer": true,
+  "builder.launchType": "editor",
+  "docwriter.progress.trackFunctions": true,
+  "docwriter.progress.trackMethods": false,
+  "docwriter.progress.trackTypes": true
+}
